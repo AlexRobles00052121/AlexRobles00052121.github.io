@@ -1,3 +1,3 @@
 # Los Malditos ®
 
-API de SafeHouse :+1:
+API de SafeHouse
